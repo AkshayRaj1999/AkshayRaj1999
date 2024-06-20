@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkshayRaj1999](https://github.com/AkshayRaj1999)
 
-- 💬 Ask me about **react js,python**
+- 💬 Ask me about **react js**
 
 - 📫 How to reach me **akshayakz999@gmail.com**
 
