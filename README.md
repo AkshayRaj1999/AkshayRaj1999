@@ -1,6 +1,6 @@
 
 <h1 align="center" style="color:blue;"> Hi 👋, I'm Akshay Raj A</h1>
-<h3 align="center">Newbie Front End Dev With A Coffee</h3>
+<!-- <h3 align="center">Newbie Front End Dev With A Coffee</h3> -->
 <img align="right" alt="Coding" width="100%" src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif")
   </br>
 
@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **akshayakz999@gmail.com**
 
-- ⚡ Fun fact **am a megalohydrothalassophobic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
